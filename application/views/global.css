@@ -48,6 +48,7 @@ ul#nav li a{
 ul#nav li a:hover{
     background-color: #030303;
     color: #fff;
+    padding-left: 30px;
 }
 ul#nav li a.selected{
     background-color: #030303;
