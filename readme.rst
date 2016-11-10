@@ -9,7 +9,5 @@ Anggota
 *******************
 1. Product Owner  : Reginia Cyndi
 2. Scrum Master   : Novia Karunia
-3. Developer Team : Gamal Akbar
-                    Bobby Ilham
-                    Gilang dimiza
+3. Developer Team : Gamal Akbar : Bobby Ilham : Gilang dimiza
 
