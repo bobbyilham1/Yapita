@@ -12,4 +12,4 @@ Team
 2. Scrum Master  : Novia Karunia
 3. Developer team : Gamal Akbar
                     Bobby Ilham
-                    Gilang Dimiza
+                    Gilang Dimizza
